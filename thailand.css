@@ -1,0 +1,22 @@
+body{
+    background-color: teal;
+    background-image: url(Images/globe.png);
+    background-size: cover;
+}
+.facts{
+    color: green;
+    
+    
+}
+.hero{
+    color:white;
+    padding: min(5em,8%);
+    width: 700px;
+    background-image: url(Images/globe.png);
+    background-repeat: no-repeat;
+    box-shadow: 0 3px 10px black;
+    border: 1em;
+}
+.container{
+    
+}

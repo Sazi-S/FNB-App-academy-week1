@@ -1,0 +1,36 @@
+body {
+    background-image: url(Images/globe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: teal;
+}
+
+.container{
+    color:black;
+    
+    
+}
+.head{
+    color: black;
+}
+p{
+    padding: min(5em,8%);
+    width: 700px;
+    background-color: white;
+    box-shadow: 0 3px 10px black;
+    border: 1em;
+    color: teal;
+}
+a{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 20px;
+    text-align: right;
+    justify-content: right;
+}
+a.hover{
+    color: white;
+}
+        
+
